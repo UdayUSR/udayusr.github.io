@@ -18,6 +18,18 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+.idea/
 
-# Ignore files created by MacOS
+# Python cache & test files
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.pytest_cache/
+venv/
+.env
+
+# Ignore files created by MacOS & Windows
 .DS_Store
+Thumbs.db
+desktop.ini
