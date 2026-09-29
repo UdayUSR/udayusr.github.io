@@ -3,7 +3,7 @@ title: "PromptTriage: A Multi-Class Detection and Defense Framework for Prompt I
 collection: publications
 category: under_review
 permalink: /publication/prompt-triage-llm-defense
-status: "Under Review"
+status: ""
 authors: "<strong>Uday Shankar Roy</strong>, et al."
 date: 2026-02-01
 venue: "Under Review"

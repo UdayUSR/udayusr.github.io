@@ -3,10 +3,10 @@ title: "Frequency-Domain AI-Generated Image Detection: Exploring Decoder and Cha
 collection: publications
 category: conferences
 permalink: /publication/frequency-domain-ai-detection
-status: "Accepted: IEEE OMLET 2026"
+status: "Accepted"
 authors: "<strong>Uday Shankar Roy</strong>, Sk Imran Hossain, Md. Abdus Salim Mollah"
 date: 2026-03-10
-venue: "2026 IEEE OMLET"
+venue: "IEEE OMLET 2026"
 citation: "Roy, U. S., Hossain, S. I., & Mollah, M. A. S. (2026). Frequency-Domain AI-Generated Image Detection: Exploring Decoder and Channel Attention for Feature Refinement. In 2026 IEEE OMLET."
 excerpt: "Explores U-Net and Attention U-Net decoders coupled with an EfficientNet-B0 encoder for forensic AI-generated synthetic image detection, investigating whether channel attention can refine discriminative spectral features in the frequency domain."
 ---

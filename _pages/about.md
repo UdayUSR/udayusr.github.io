@@ -13,13 +13,12 @@ I am a researcher and engineer with a strong foundation in <strong>Machine Learn
 
 <hr class="section-divider" style="border: none; height: 1.5px; background-color: #cbd5e1; margin: 30px 0;" />
 
-## Research Interests
-
-<ul style="color: var(--global-text-color); line-height: 1.7; font-size: 1em;">
-  <li>Machine Learning & Deep Learning</li>
-  <li>ML for Security & Adversarial Robustness</li>
-  <li>Trustworthy AI & Shortcut Learning</li>
-  <li>Computer Vision</li>
+<h2 style="margin: 0 0 6px 0; padding: 0;">Research Interests</h2>
+<ul style="margin: 0 0 0 20px; padding: 0; line-height: 1.35; color: var(--global-text-color);">
+  <li style="margin: 0; padding: 1px 0;">Machine Learning &amp; Deep Learning</li>
+  <li style="margin: 0; padding: 1px 0;">ML for Security &amp; Adversarial Robustness</li>
+  <li style="margin: 0; padding: 1px 0;">Trustworthy AI &amp; Shortcut Learning</li>
+  <li style="margin: 0; padding: 1px 0;">Computer Vision</li>
 </ul>
 
 <hr class="section-divider" style="border: none; height: 1.5px; background-color: #cbd5e1; margin: 30px 0;" />

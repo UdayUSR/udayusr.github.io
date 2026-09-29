@@ -3,7 +3,7 @@ title: "Unmasking Shortcut Learning in IoT Intrusion Detection: A Forensic, Mult
 collection: publications
 category: under_review
 permalink: /publication/shortcut-learning-iot-intrusion-detection
-status: "Under Review"
+status: ""
 authors: "<strong>Uday Shankar Roy</strong>, Mahbuba Jahan Minu"
 date: 2026-01-15
 venue: "Under Review (Preprint available on arXiv)"

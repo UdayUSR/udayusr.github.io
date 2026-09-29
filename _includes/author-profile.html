@@ -24,8 +24,8 @@
     <button class="btn btn--inverse">Follow</button>
     {% if author.cv %}
       <div class="author__cv-download" style="margin: 10px 0 14px;">
-        <a href="{{ author.cv | prepend: base_path }}" class="btn btn--primary" style="display: inline-block; width: auto; color: #ffffff !important; font-weight: 600; font-size: 0.82em; padding: 5px 12px; border-radius: 5px; text-decoration: none; box-shadow: 0 1px 2px rgba(0,0,0,0.1);">
-          <i class="fas fa-file-pdf icon-pad-right" aria-hidden="true"></i> Download CV
+        <a href="{{ author.cv | prepend: base_path }}" class="btn btn--primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 6px; width: auto; color: #ffffff !important; font-weight: 600; font-size: 0.82em; padding: 5px 12px; border-radius: 5px; text-decoration: none; box-shadow: 0 1px 2px rgba(0,0,0,0.1);">
+          <i class="fas fa-file-pdf" aria-hidden="true"></i><span>Download CV</span>
         </a>
       </div>
     {% endif %}
