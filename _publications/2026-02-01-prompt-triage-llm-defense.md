@@ -4,10 +4,10 @@ collection: publications
 category: under_review
 permalink: /publication/prompt-triage-llm-defense
 status: ""
-authors: "<strong>Uday Shankar Roy</strong>, et al."
+authors: "Mahbuba Jahan Minu, <strong>Uday Shankar Roy</strong>"
 date: 2026-02-01
 venue: "Under Review"
-citation: "Roy, U. S., et al. (2026). PromptTriage: A Multi-Class Detection and Defense Framework for Prompt Injection Attacks in LLM-Integrated Applications. Under Review."
+citation: "Minu, M. J., & Roy, U. S. (2026). PromptTriage: A Multi-Class Detection and Defense Framework for Prompt Injection Attacks in LLM-Integrated Applications. Under Review."
 excerpt: "Develops a proactive multi-class defense framework that categorizes prompt injection attacks into four structured threat classes and dynamically maps each class to a type-specific defense action, reducing attack success from 16/50 to 1/50 while sanitizing or blocking 48 of 50 attacks."
 ---
 

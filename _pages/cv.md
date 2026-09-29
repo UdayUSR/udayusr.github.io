@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <div style="margin-bottom: 24px;">
-  <a href="{{ '/files/Uday_Shankar_Roy_CV.pdf' | prepend: base_path }}" class="btn btn--primary" style="padding: 10px 18px; font-size: 1.05em; font-weight: 600; border-radius: 6px; text-decoration: none; display: inline-block;">
-    <i class="fas fa-file-pdf icon-pad-right"></i> Download Full CV (PDF)
+  <a href="{{ '/files/Uday_Shankar_Roy_CV.pdf' | prepend: base_path }}" class="btn btn--primary" style="padding: 10px 18px; font-size: 1.05em; font-weight: 600; border-radius: 6px; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 8px;">
+    <i class="fas fa-file-pdf"></i><span>Download Full CV (PDF)</span>
   </a>
 </div>
 

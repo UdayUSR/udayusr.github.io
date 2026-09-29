@@ -13,12 +13,12 @@ I am a researcher and engineer with a strong foundation in <strong>Machine Learn
 
 <hr class="section-divider" style="border: none; height: 1.5px; background-color: #cbd5e1; margin: 30px 0;" />
 
-<h2 style="margin: 0 0 6px 0; padding: 0;">Research Interests</h2>
-<ul style="margin: 0 0 0 20px; padding: 0; line-height: 1.35; color: var(--global-text-color);">
-  <li style="margin: 0; padding: 1px 0;">Machine Learning &amp; Deep Learning</li>
-  <li style="margin: 0; padding: 1px 0;">ML for Security &amp; Adversarial Robustness</li>
-  <li style="margin: 0; padding: 1px 0;">Trustworthy AI &amp; Shortcut Learning</li>
-  <li style="margin: 0; padding: 1px 0;">Computer Vision</li>
+<h2 style="margin: 0 0 14px 0; padding-bottom: 8px;">Research Interests</h2>
+<ul style="margin: 0 0 0 20px; padding: 0; line-height: 1.4; color: var(--global-text-color);">
+  <li style="margin: 0; padding: 2px 0;">Machine Learning &amp; Deep Learning</li>
+  <li style="margin: 0; padding: 2px 0;">ML for Security &amp; Adversarial Robustness</li>
+  <li style="margin: 0; padding: 2px 0;">Trustworthy AI &amp; Shortcut Learning</li>
+  <li style="margin: 0; padding: 2px 0;">Computer Vision</li>
 </ul>
 
 <hr class="section-divider" style="border: none; height: 1.5px; background-color: #cbd5e1; margin: 30px 0;" />
@@ -32,7 +32,7 @@ I am a researcher and engineer with a strong foundation in <strong>Machine Learn
   </div>
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
     <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Mar. 2026</span>
-    <span style="color: var(--global-text-color); line-height: 1.5;">Our paper <em>"Frequency-Domain AI-Generated Image Detection: Exploring Decoder and Channel Attention for Feature Refinement"</em> was accepted at <strong>IEEE OMLET 2026</strong>.</span>
+    <span style="color: var(--global-text-color); line-height: 1.5;">Our paper <em>"Frequency-Domain AI-Generated Image Detection: Exploring Decoder and Channel Attention for Feature Refinement"</em> was accepted at <strong>IEEE OMLET 2026</strong> (<a href="https://arxiv.org/abs/2609.31723" target="_blank" rel="noopener noreferrer">arXiv:2609.31723</a>).</span>
   </div>
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
     <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Feb. 2026</span>

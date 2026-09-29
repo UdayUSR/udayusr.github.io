@@ -37,13 +37,14 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.citation %}
-      <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.9em; margin-top: 4px;">
-        {% if post.status %}
+      <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.92em; margin-top: 4px; color: var(--global-text-color);">
+        {% if post.status and post.status != "" and post.status != post.venue %}
           <strong>[{{ post.status }}]</strong> 
         {% endif %}
         {{ post.citation }}
         {% if post.doi %} [<a href="{{ post.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>]{% endif %}
         {% if post.arxiv %} [<a href="{{ post.arxiv }}" target="_blank" rel="noopener noreferrer">arXiv</a>]{% endif %}
+        {% if post.paperurl %} [<a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">PDF</a>]{% endif %}
       </p>
     {% endif %}
     </li>
