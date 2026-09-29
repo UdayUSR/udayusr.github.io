@@ -23,14 +23,7 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      <!-- CV Download Button (High visibility for PhD applications) -->
-      {% if author.cv %}
-        <li style="list-style: none; margin-bottom: 12px;">
-          <a href="{{ author.cv | prepend: base_path }}" class="btn btn--primary" style="display: block; text-align: center; color: #ffffff !important; font-weight: 600; padding: 7px 12px; border-radius: 6px; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
-            <i class="fas fa-file-pdf icon-pad-right" aria-hidden="true"></i> Download CV (PDF)
-          </a>
-        </li>
-      {% endif %}
+
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
@@ -43,6 +36,9 @@
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv | prepend: base_path }}"><i class="ai ai-cv ai-fw icon-pad-right" aria-hidden="true"></i>CV</a></li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->

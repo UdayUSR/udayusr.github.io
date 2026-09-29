@@ -22,12 +22,12 @@ repository               : "UdayUSR/udayusr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_scholar.jpg"
+  avatar           : "profilepic_uday.jpg"
   name             : "Uday Shankar Roy"
   pronouns         : 
-  bio              : "Prospective PhD Student | AI & Security"
+  bio              : "AI/ML & Security | System Engineer"
   location         : "Dhaka, Bangladesh"
-  employer         : "E-Zone Limited / KUET"
+  employer         : 
   uri              : 
   email            : "udayroycse@gmail.com" 
   cv               : "/files/Uday_Shankar_Roy_CV.pdf"
