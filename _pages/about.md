@@ -29,32 +29,28 @@ I completed my B.Sc. in Computer Science and Engineering from Khulna University 
 
 <div class="news-list" style="margin-top: 14px; margin-bottom: 24px;">
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
-    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Apr. 2026</span>
-    <span style="color: var(--global-text-color); line-height: 1.5;">Our paper <em>"Deep Learning Approaches for Skin Lesion Hair Segmentation: Addressing Diversity through Dataset Adaptation to Brown Skin Tones"</em> was accepted and published at <strong>IEEE QPAIN 2026</strong> (<a href="https://doi.org/10.1109/QPAIN69676.2026.11546677" target="_blank" rel="noopener noreferrer">DOI</a>).</span>
+    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Sep. 2026</span>
+    <span style="color: var(--global-text-color); line-height: 1.5;">Our preprint <em>"Unmasking Shortcut Learning in IoT Intrusion Detection: A Forensic, Multi-Paradigm Evaluation of Feature Dependence and Data Leakage"</em> is available on arXiv (<a href="https://arxiv.org/abs/2609.28725" target="_blank" rel="noopener noreferrer">arXiv:2609.28725</a>).</span>
   </div>
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
-    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Mar. 2026</span>
+    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Aug. 2026</span>
     <span style="color: var(--global-text-color); line-height: 1.5;">Our paper <em>"Frequency-Domain AI-Generated Image Detection: Exploring Decoder and Channel Attention for Feature Refinement"</em> was accepted at <strong>IEEE OMLET 2026</strong> (<a href="https://arxiv.org/abs/2609.31723" target="_blank" rel="noopener noreferrer">arXiv:2609.31723</a>).</span>
   </div>
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
     <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Feb. 2026</span>
-    <span style="color: var(--global-text-color); line-height: 1.5;">Our preprint <em>"Unmasking Shortcut Learning in IoT Intrusion Detection: A Forensic, Multi-Paradigm Evaluation of Feature Dependence and Data Leakage"</em> is published on arXiv (<a href="https://arxiv.org/abs/2609.28725" target="_blank" rel="noopener noreferrer">arXiv:2609.28725</a>).</span>
+    <span style="color: var(--global-text-color); line-height: 1.5;">Our paper <em>"Deep Learning Approaches for Skin Lesion Hair Segmentation: Addressing Diversity through Dataset Adaptation to Brown Skin Tones"</em> was accepted and published at <strong>IEEE QPAIN 2026</strong> (<a href="https://doi.org/10.1109/QPAIN69676.2026.11546677" target="_blank" rel="noopener noreferrer">DOI</a>).</span>
   </div>
-  <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
-    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Jan. 2026</span>
+  <!-- <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
+    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Oct. 2026</span>
     <span style="color: var(--global-text-color); line-height: 1.5;">Our paper <em>"PromptTriage: A Multi-Class Detection and Defense Framework for Prompt Injection Attacks in LLM-Integrated Applications"</em> has been submitted for peer review.</span>
-  </div>
+  </div> -->
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
-    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">2024</span>
+    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Mar. 2024</span>
     <span style="color: var(--global-text-color); line-height: 1.5;">Graduated with B.Sc. in Computer Science and Engineering from <strong>KUET</strong>.</span>
   </div>
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
-    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">2024</span>
+    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Mar. 2024</span>
     <span style="color: var(--global-text-color); line-height: 1.5;">Awarded the <strong>Dean's List Award</strong> (Fourth Academic Session, KUET).</span>
-  </div>
-  <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
-    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">2023</span>
-    <span style="color: var(--global-text-color); line-height: 1.5;">Awarded the <strong>AWS AI & ML Scholarship</strong> and achieved 2nd Place in the <strong>AWS DeepRacer Student League</strong>.</span>
   </div>
 </div>
 
