@@ -25,7 +25,7 @@ author:
   avatar           : "profilepic_uday.jpg"
   name             : "Uday Shankar Roy"
   pronouns         : 
-  bio              : "AI/ML & Security | System Engineer"
+  bio              : "Aspiring Researcher | System Engineer"
   location         : "Dhaka, Bangladesh"
   employer         : 
   uri              : 
@@ -81,12 +81,7 @@ author:
   youtube          : 
   zhihu            : 
 
-# Publication Category - Clean separation for pending vs published papers
-publication_category:
-  under_review:
-    title: 'Working Papers & Under Review'
-  conferences:
-    title: 'Peer-Reviewed Conference Proceedings'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

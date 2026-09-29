@@ -23,9 +23,9 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     {% if author.cv %}
-      <div class="author__cv-download" style="margin-bottom: 14px;">
-        <a href="{{ author.cv | prepend: base_path }}" class="btn btn--primary" style="display: block; width: 100%; box-sizing: border-box; text-align: center; color: #ffffff !important; font-weight: 600; font-size: 0.9em; padding: 8px 12px; border-radius: 6px; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
-          <i class="fas fa-file-pdf icon-pad-right" aria-hidden="true"></i> Download CV (PDF)
+      <div class="author__cv-download" style="margin: 10px 0 14px;">
+        <a href="{{ author.cv | prepend: base_path }}" class="btn btn--primary" style="display: inline-block; width: auto; color: #ffffff !important; font-weight: 600; font-size: 0.82em; padding: 5px 12px; border-radius: 5px; text-decoration: none; box-shadow: 0 1px 2px rgba(0,0,0,0.1);">
+          <i class="fas fa-file-pdf icon-pad-right" aria-hidden="true"></i> Download CV
         </a>
       </div>
     {% endif %}
@@ -43,9 +43,6 @@
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-      {% endif %}
-      {% if author.cv %}
-        <li><a href="{{ author.cv | prepend: base_path }}"><i class="ai ai-cv ai-fw icon-pad-right" aria-hidden="true"></i>CV</a></li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
