@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 <p style="text-align: justify; text-justify: inter-word; line-height: 1.6; color: var(--global-text-color); font-size: 1em;">
-I am a researcher and engineer with a strong foundation in <strong>Machine Learning</strong>, <strong>Trustworthy AI</strong>, <strong>ML for Security</strong>, and <strong>Computer Vision</strong>. I completed my B.Sc. in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET), Bangladesh in 2024. I have 2+ years of work experience working as a System Engineer.
+I am an aspiring researcher and engineer interested in Machine Learning, Trustworthy AI, ML for Security, and Computer Vision. My research focuses on understanding how training data, feature representations and evaluation design affect the reliability and generalization of machine learning models. Across my work on skin lesion hair segmentation, AI-generated image detection, and IoT intrusion detection, I have explored how models can produce strong results while remaining sensitive to dataset biases, or changes in evaluation conditions.
+<br>
+I completed my B.Sc. in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET), Bangladesh, in 2024. I have over 2 years of professional experience as a System Engineer, working with large-scale network infrastructure. Alongside my professional work, I have continued conducting research independently with collaborators.
 </p>
 
 <hr class="section-divider" style="border: none; height: 1.5px; background-color: #cbd5e1; margin: 30px 0;" />
@@ -16,8 +18,8 @@ I am a researcher and engineer with a strong foundation in <strong>Machine Learn
 <h2 style="margin: 0 0 14px 0; padding-bottom: 8px;">Research Interests</h2>
 <ul style="margin: 0 0 0 20px; padding: 0; line-height: 1.4; color: var(--global-text-color);">
   <li style="margin: 0; padding: 2px 0;">Machine Learning &amp; Deep Learning</li>
+  <li style="margin: 0; padding: 2px 0;">Trustworthy AI</li>
   <li style="margin: 0; padding: 2px 0;">ML for Security &amp; Adversarial Robustness</li>
-  <li style="margin: 0; padding: 2px 0;">Trustworthy AI &amp; Shortcut Learning</li>
   <li style="margin: 0; padding: 2px 0;">Computer Vision</li>
 </ul>
 
