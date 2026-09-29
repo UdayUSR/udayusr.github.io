@@ -26,9 +26,15 @@
       </div>
     {% endif %}
 
+    {% if post.collection == 'publications' %}
+      {% assign title_url = post.doi | default: post.arxiv | default: post.link %}
+    {% else %}
+      {% assign title_url = post.link %}
+    {% endif %}
+
     <div style="font-size: 1.08em; font-weight: 700; line-height: 1.45; margin-bottom: 5px;">
-      {% if post.link %}
-        <a href="{{ post.link }}" target="_blank" rel="noopener noreferrer" style="color: var(--global-text-color); text-decoration: none;">{{ title }}</a>
+      {% if title_url %}
+        <a href="{{ title_url }}" target="_blank" rel="noopener noreferrer" style="color: var(--global-text-color); text-decoration: none;">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" style="color: var(--global-text-color); text-decoration: none;">{{ title }}</a>
       {% endif %}

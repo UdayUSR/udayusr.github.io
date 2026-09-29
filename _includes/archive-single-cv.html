@@ -6,10 +6,12 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign title_url = post.doi | default: post.arxiv | default: post.link %}
+
 <li style="margin-bottom: 16px; line-height: 1.5;">
   <div style="font-size: 1.02em; font-weight: 700; color: var(--global-text-color); margin-bottom: 3px;">
-    {% if post.link %}
-      <a href="{{ post.link }}" target="_blank" rel="noopener noreferrer" style="color: var(--global-text-color) !important; text-decoration: none !important;">{{ title }}</a>
+    {% if title_url %}
+      <a href="{{ title_url }}" target="_blank" rel="noopener noreferrer" style="color: var(--global-text-color) !important; text-decoration: none !important;">{{ title }}</a>
     {% else %}
       <a href="{{ base_path }}{{ post.url }}" style="color: var(--global-text-color) !important; text-decoration: none !important;">{{ title }}</a>
     {% endif %}
