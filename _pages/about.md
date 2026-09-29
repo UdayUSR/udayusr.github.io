@@ -36,11 +36,11 @@ I am a researcher and engineer with a strong foundation in <strong>Machine Learn
   </div>
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
     <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Feb. 2026</span>
-    <span style="color: var(--global-text-color); line-height: 1.5;">Our paper <em>"PromptTriage: A Multi-Class Detection and Defense Framework for Prompt Injection Attacks in LLM-Integrated Applications"</em> has been submitted for peer review.</span>
+    <span style="color: var(--global-text-color); line-height: 1.5;">Our preprint <em>"Unmasking Shortcut Learning in IoT Intrusion Detection: A Forensic, Multi-Paradigm Evaluation of Feature Dependence and Data Leakage"</em> is published on arXiv (<a href="https://arxiv.org/abs/2609.28725" target="_blank" rel="noopener noreferrer">arXiv:2609.28725</a>).</span>
   </div>
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
     <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Jan. 2026</span>
-    <span style="color: var(--global-text-color); line-height: 1.5;">Our preprint <em>"Unmasking Shortcut Learning in IoT Intrusion Detection: A Forensic, Multi-Paradigm Evaluation of Feature Dependence and Data Leakage"</em> is published on arXiv (<a href="https://arxiv.org/abs/2609.28725" target="_blank" rel="noopener noreferrer">arXiv:2609.28725</a>).</span>
+    <span style="color: var(--global-text-color); line-height: 1.5;">Our paper <em>"PromptTriage: A Multi-Class Detection and Defense Framework for Prompt Injection Attacks in LLM-Integrated Applications"</em> has been submitted for peer review.</span>
   </div>
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
     <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">2024</span>

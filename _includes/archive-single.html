@@ -54,7 +54,6 @@
         {% if post.paperurl %}
           <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 5px; padding: 3px 10px; border-radius: 4px; border: 1px solid var(--global-border-color); color: var(--global-link-color); background: rgba(125, 125, 125, 0.05); text-decoration: none; font-weight: 600;"><i class="fas fa-file-pdf"></i> PDF</a>
         {% endif %}
-        <a href="{{ base_path }}{{ post.url }}" style="display: inline-flex; align-items: center; gap: 5px; padding: 3px 10px; border-radius: 4px; border: 1px solid var(--global-border-color); color: var(--global-text-color); background: rgba(125, 125, 125, 0.05); text-decoration: none; font-weight: 600;"><i class="fas fa-info-circle"></i> Details</a>
       </div>
     {% elsif post.collection == 'teaching' %}
       <p style="font-size: 0.92em; color: var(--global-text-color);"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>

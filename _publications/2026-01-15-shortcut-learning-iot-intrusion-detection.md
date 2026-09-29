@@ -5,7 +5,7 @@ category: under_review
 permalink: /publication/shortcut-learning-iot-intrusion-detection
 status: ""
 authors: "<strong>Uday Shankar Roy</strong>, Mahbuba Jahan Minu"
-date: 2026-01-15
+date: 2026-02-15
 venue: "Under Review (Preprint available on arXiv)"
 arxiv: "https://arxiv.org/abs/2609.28725"
 paperurl: "https://arxiv.org/pdf/2609.28725"
