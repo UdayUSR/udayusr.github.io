@@ -20,7 +20,7 @@ redirect_from:
 * **B.Sc. in Computer Science and Engineering**  
   *Khulna University of Engineering & Technology (KUET)*, Bangladesh \| 2019 – 2024  
   * Institutional CGPA: **3.48 / 4.0** (3.75 in final two semesters)  
-  * *Official U.S. FCSA Equivalency:* Overall GPA **3.82 / 4.0** \| Upper Division GPA **3.96 / 4.0** 
+  * *FCSA Evaluation (U.S. Equivalency):* Overall GPA **3.82 / 4.0** \| Upper Division GPA **3.96 / 4.0** 
 
 * **Higher Secondary Certificate (HSC) in Science**  
   *Khulna Public College*, Bangladesh \| 2015 – 2018  
