@@ -2,6 +2,7 @@
 title: 'Engineering NewsPro: Building an Autonomous News Aggregation & AI Synthesis Platform'
 date: 2026-09-29
 permalink: /blog/2026/09/newspro-autonomous-news-aggregation-platform/
+published: false
 tags:
   - System Architecture
   - LLM Integration
