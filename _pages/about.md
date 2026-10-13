@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify; text-justify: inter-word; line-height: 1.6; color: var(--global-text-color); font-size: 1em;">
-I am an aspiring researcher and engineer interested in Robust Machine Learning, ML for Security, Trustworthy AI, and Computer Vision. My research focuses on understanding how training data, feature representations and evaluation design affect the reliability and generalization of machine learning models. Across my work on skin lesion hair segmentation, AI-generated image detection, and IoT intrusion detection, I have explored how models can produce strong results while remaining sensitive to dataset biases, or changes in evaluation conditions.
+I am an aspiring researcher and engineer interested in Reliable Machine Learning, Efficient and Trustworthy AI, ML for Security and IoT, and Computer Vision. My research focuses on understanding how training data, feature representations and evaluation design affect the reliability and generalization of machine learning models. Across my work on skin lesion hair segmentation, AI-generated image detection, and IoT intrusion detection, I have explored how models can produce strong results while remaining sensitive to dataset biases, or changes in evaluation conditions.
 <br>
 I completed my B.Sc. in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET), Bangladesh, in 2024. I have over 2 years of professional experience as a System Engineer, working with large-scale network infrastructure. Alongside my professional work, I have continued conducting research independently with collaborators.
 </p>
@@ -17,9 +17,9 @@ I completed my B.Sc. in Computer Science and Engineering from Khulna University 
 
 <h2 style="margin: 0 0 14px 0; padding-bottom: 8px;">Research Interests</h2>
 <ul style="margin: 0 0 0 20px; padding: 0; line-height: 1.4; color: var(--global-text-color);">
-  <li style="margin: 0; padding: 2px 0;">Robust Machine Learning</li>
-  <li style="margin: 0; padding: 2px 0;">ML for Security</li>
-  <li style="margin: 0; padding: 2px 0;">Trustworthy AI</li>
+  <li style="margin: 0; padding: 2px 0;">Reliable Machine Learning</li>
+  <li style="margin: 0; padding: 2px 0;">Efficient and Trustworthy AI</li>
+  <li style="margin: 0; padding: 2px 0;">ML for Security and IoT</li>
   <li style="margin: 0; padding: 2px 0;">Computer Vision</li>
 </ul>
 
