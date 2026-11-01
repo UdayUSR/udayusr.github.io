@@ -92,6 +92,7 @@ redirect_from:
 
 ## Honors & Awards
 
+* **Best Paper Award**, IEEE OMLET 2026 *(2026)*
 * **Dean's List Award**, Fourth Academic Session, KUET *(2024)*
 * **AWS AI & ML Scholarship** *(2023)*
 * **2nd Place**, AWS DeepRacer Student League *(2023)*

@@ -29,6 +29,10 @@ I completed my B.Sc. in Computer Science and Engineering from Khulna University 
 
 <div class="news-list" style="margin-top: 14px; margin-bottom: 24px;">
   <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
+    <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Oct. 2026</span>
+    <span style="color: var(--global-text-color); line-height: 1.5;">🏆 Our paper <em>"Frequency-Domain AI-Generated Image Detection: Exploring Decoder and Channel Attention for Feature Refinement"</em> won the <strong>Best Paper Award</strong> at <strong>IEEE OMLET 2026</strong>!</span>
+  </div>
+  <div style="display: flex; gap: 16px; margin-bottom: 12px; align-items: baseline;">
     <span style="display: inline-block; min-width: 82px; text-align: center; padding: 2px 8px; font-size: 0.82em; font-weight: 700; border-radius: 4px; background: rgba(125, 125, 125, 0.12); color: var(--global-text-color); border: 1px solid var(--global-border-color); flex-shrink: 0;">Sep. 2026</span>
     <span style="color: var(--global-text-color); line-height: 1.5;">Our preprint <em>"Unmasking Shortcut Learning in IoT Intrusion Detection: A Forensic, Multi-Paradigm Evaluation of Feature Dependence and Data Leakage"</em> is available on arXiv (<a href="https://arxiv.org/abs/2609.28725" target="_blank" rel="noopener noreferrer">arXiv:2609.28725</a>).</span>
   </div>
